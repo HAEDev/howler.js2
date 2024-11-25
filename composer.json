@@ -1,6 +1,6 @@
 {
-  "name": "haedev/howler",
-  "exportName": "haedev/howler",
+  "name": "haedev/howler.js",
+  "exportName": "haedev/howler.js",
   "description": "Javascript audio library for the modern web.",
   "homepage": "https://howlerjs.com",
   "keywords": [
